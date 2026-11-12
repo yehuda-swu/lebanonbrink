@@ -1,68 +1,74 @@
 # Lebanon: A Nation on the Brink
 
-An interactive StandWithUs UK Explore activity designed for students aged 16 to 17.
+An interactive StandWithUs UK Explore history activity for students aged 16 to 17.
 
-## What pupils do
+## Version 2: Background and documentary edition
 
-Pupils advise an imagined council in five historical chapters:
+This update expands the original five chapter simulation:
 
-1. 1920: The creation of Greater Lebanon
-2. 1943: The National Pact and independence
-3. 1958: Political crisis and foreign intervention
-4. 1970: The growing presence of the PLO
-5. 1975: The outbreak of the Lebanese Civil War
+* An introductory briefing on Lebanon's different religious communities and changing demographic estimates.
+* A clear explanation of the 1943 National Pact and the key political offices.
+* Four optional short video extracts from the two source videos supplied by the educator.
+* A corrected image for the 1958 crisis: the 1958 US intervention photograph from the original Northern Arrows presentation, rather than a photograph of Gamal Abdel Nasser.
+* Revised teacher guidance, source notes and classroom viewing instructions.
 
-In each chapter, pupils choose one of three responses and then reveal what actually happened. Two simulated meters illustrate possible tensions between national stability and state authority. These meters are **not actual historical statistics or predictions**.
+The original five decision chapters, historical reveals, scoring logic, midpoint interlude, final council report and reset feature remain in place.
 
-The activity also has a short golden years interlude after 1958, an end of activity briefing, an educator guide, and a sources panel.
+## Classroom journey
+
+1. Welcome screen. Optional council name.
+2. **Context briefing:** Compare religious communities and learn how leadership positions were shared. Watch the political system video or continue directly.
+3. **1920:** Creating Greater Lebanon.
+4. **1943:** Independence and the National Pact. Optional documentary clip.
+5. **1958:** Lebanese political crisis and US intervention.
+6. **1960s:** Beirut's golden years.
+7. **1970:** The growth of the PLO's presence. Optional documentary clip.
+8. **1975:** The outbreak of the civil war. Optional documentary clip.
+9. Final council report and discussion.
+
+Running time: approximately 12 to 15 minutes without video, or around 20 to 25 minutes with every video and classroom discussion. Students may skip any clip.
 
 ## Contents
 
-* `index.html` is the entry page.
-* `styles.css` contains the design and responsive layout.
-* `app.js` contains the chapter content, scenarios, and score logic.
-* `assets/` contains selected images extracted from the source presentation.
-* `EDUCATOR_GUIDE.md` provides lesson instructions.
-* `SOURCES.md` provides references and image notes.
+* `index.html` starts the activity.
+* `styles.css` controls the layout and mobile experience.
+* `app.js` contains introduction content, chapter decisions, historical reveals, scores and video placements.
+* `assets/` includes the images and video posters.
+* `videos/` includes four shortened MP4 clips optimised for static GitHub hosting.
+* `EDUCATOR_GUIDE.md` offers lesson guidance.
+* `SOURCES.md` records citations, notes about estimates, clip timings and the rights reminder.
 
-## Run locally
+## GitHub Pages upload
 
-Open `index.html` in a browser. The activity does not require a server or external database. Google Fonts are optional; system font fallbacks are included.
+1. Open your existing repository, such as `yehuda-swu/lebanonbrink`.
+2. Extract this ZIP on your computer.
+3. Upload the **contents** of the extracted folder into the **root** of the repository, including the `assets` and `videos` folders.
+4. Overwrite old versions of `index.html`, `styles.css`, `app.js`, `README.md`, `EDUCATOR_GUIDE.md` and `SOURCES.md`.
+5. Commit the changes.
+6. Make sure GitHub Pages deploys from the `main` branch and root folder in **Settings > Pages**.
 
-## Publish to GitHub Pages
+Suggested commit message:
 
-1. Create a public repository at GitHub named `lebanonbrink`.
-2. Unzip the downloaded archive on your computer.
-3. Open the new repository and choose **Add file**, then **Upload files**.
-4. Upload the **contents** of the extracted folder, not the ZIP archive or a folder enclosing `index.html`.
-5. Enter the commit message **Add Lebanon: A Nation on the Brink interactive activity**.
-6. Open **Settings**, then **Pages**.
-7. Select **Deploy from a branch**. Choose `main` and `/ (root)`, then save.
-8. Once GitHub Pages finishes publishing, the expected address is `https://yehuda-swu.github.io/lebanonbrink/` if the repository is under the `yehuda-swu` account.
+`Add Lebanon background briefing and documentary clips`
 
-If working with a local Git repository instead of the GitHub uploader:
+For a locally cloned Git repository:
 
 ```bash
 git add .
-git commit -m "Add Lebanon: A Nation on the Brink interactive activity"
+git commit -m "Add Lebanon background briefing and documentary clips"
 git push origin main
 ```
 
-## Change the chapters
+If no repository exists, create a public repository, upload these files and enable GitHub Pages from `main` and `/ (root)`.
 
-The `CHAPTERS` array at the top of `app.js` holds the text, source notes, images, choices and hypothetical score impacts. Each choice has a `stability` and `authority` value. The actual historical reveal remains the same irrespective of the pupil's choice.
+## Changing the activity
 
-## Images and rights
+The `CHAPTERS` array in `app.js` contains the five chapters. To update the introduction, edit the `intro()` function. The rounded demographic illustrations are in that function. Video definitions are stored in `VIDEO_CLIPS`, and the player markup is handled by `clipCard()`.
 
-The photographs and maps in `assets/` are crops of pages from the original presentation supplied for this request. They are included to demonstrate the intended lesson design. The original presentation may contain third party photographs with separate rights. **Please confirm the appropriate permissions before publishing the activity to a public website.** If required, replace the JPG images in `assets/` with licensed alternatives, keeping the same filenames.
+Score changes are simulated classroom interpretations and not historical statistics or predictions. Student decisions do not change the documented historical outcome.
 
-This package does not include any video files.
+## Rights and privacy
 
-## Practical notes
+The supplied presentation and both uploaded videos may include copyrighted material owned by others. The video extracts are included to support your local education workflow, but possession of downloaded media does not establish permission to redistribute them publicly through GitHub Pages. **Check licensing and obtain any necessary permissions before public deployment.** If you cannot republish the clips, remove the video files and ask to switch to linked, authorised original videos instead.
 
-* Designed for desktop, interactive whiteboards, tablets and phones.
-* No pupils' details are sent to a server.
-* The optional council name is held only in the current page session.
-* The reset button returns the game to the welcome screen.
-* A printable final report is included.
-* All assets are local except the optional fonts and hyperlinks to historical sources.
+The activity is static and does not transmit student names or decisions to a database. Optional Google Fonts may be requested by browsers when connected.

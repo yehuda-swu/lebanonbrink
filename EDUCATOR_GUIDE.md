@@ -1,56 +1,72 @@
-# Educator Guide
-## Lebanon: A Nation on the Brink
+# Educator Guide: Lebanon: A Nation on the Brink
 
-**Audience:** Ages 16 to 17  
-**Activity length:** 10 to 12 minutes, plus discussion  
-**Use:** Individually, in pairs, in groups, or projected for the whole class  
-**Where it fits:** After the early Lebanon history section of the Northern Arrows presentation, before the discussion of the 1982 war.
+## Audience and purpose
+
+StandWithUs UK Explore students aged 16 to 17. The goal is to give students a concise understanding of how Lebanon's political structure, communal divisions, external pressures and armed groups shaped the context for the conflict on Israel's northern border.
+
+**Timing:** Approximately 12 to 15 minutes without video, or 20 to 25 minutes with all four clips and discussion. All video extracts are optional.
 
 ## Learning objectives
 
-By the end, students should be able to:
+Students should be able to:
 
-* Explain why the political structure of Lebanon faced challenges from its creation.
-* Describe the importance and limits of the 1943 National Pact.
-* Identify the key tensions and outcome of the 1958 crisis.
-* Explain how the PLO's armed presence increased pressure on Lebanese institutions and the border with Israel.
-* Recognise that the 1975 civil war had multiple overlapping political, sectarian and regional causes.
+1. Identify Lebanon's principal religious communities and explain why demographic changes matter to political representation.
+2. Describe the original 1943 division of senior political offices and the 6:5 parliamentary arrangement.
+3. Explain the 1958 crisis and the importance of political compromise.
+4. Explain why the armed Palestinian presence in Lebanon increased pressure on the state and affected Israel's northern border.
+5. Recognise that the 1975 civil war had multiple contributing causes and involved several Lebanese and non Lebanese actors.
 
-## Delivery
+## Suggested structure
 
-**Introduction (1 minute):** Explain that pupils are members of an *imagined* advisory council working across different historical eras. Their advice is a counterfactual classroom exercise, not a claim about decisions that actually happened.
+**1. The context briefing, two to four minutes**
 
-**Chapters (7 to 9 minutes):** Read each scenario, give pupils time to discuss the three responses, then confirm one. After the historical reveal, ask them to compare their proposal with what actually happened. If projecting, invite pupils to vote by raising hands.
+Show the two population diagrams. These values reflect the supplied presentation's *illustrative estimates*, not verified census results. Lebanon's last official national census occurred in **1932**. Percentage figures vary across references, and some definitions count different populations. Religious groups should not be described as ethnic groups.
 
-**Golden years interlude (1 minute):** Highlight that a period of relative prosperity after 1958 did not eliminate the country's deeper divisions.
+Ask students: *If the population of a country changes, should the political balance change as well?*
 
-**Final reflection (2 minutes):** Compare groups' choices and discuss how stability and state authority can conflict.
+Explain the roles linked to the 1943 National Pact:
 
-## Discussion prompts
+* President: Maronite Christian.
+* Prime Minister: Sunni Muslim.
+* Speaker of Parliament: Shia Muslim.
 
-| Chapter | Question |
-| --- | --- |
-| 1920 | How do you persuade communities with different identities to trust a new state? |
-| 1943 | Can a political compromise solve one problem while creating another? |
-| 1958 | When might outside intervention protect a state, and when might it increase tensions? |
-| 1970 | What happens when armed groups operate independently of a national army? |
-| 1975 | Why is it misleading to blame a civil war on a single community or organisation? |
+In 1943 the parliamentary ratio favoured Christians 6:5. A later settlement changed seats to equal representation between Christians and Muslims.
 
-## How to interpret the scores
+The intro offers the political system video extract as a quick refresher.
 
-**National Stability** describes a *simulated* level of political trust and cohesion.  
-**State Authority** describes a *simulated* ability to make and enforce collective decisions.
+**2. The council decisions, ten to twelve minutes**
 
-These are deliberately simplified teaching indicators. They are not quantitative historical measurements or evidence that a selected policy would have produced the assigned outcome. The game has no perfect ending, because the real history does not change.
+For each of the five chapters, ask students to read the problem, speak in pairs for roughly 45 seconds, select a recommendation and open the historical reveal. Encourage groups to explain why they made each choice.
 
-## Historical care
+**3. Video opportunities**
 
-* The events are described from a high level and the complexities of Lebanese politics cannot be reduced to five decisions.
-* Avoid implying that religious communities acted as unified blocs.
-* The PLO's presence was one factor in the civil war, not its sole cause.
-* Use the historical reveal as the factual anchor and the pupils' choices as discussion material.
-* Images from the supplied presentation may have external rights holders and should be cleared for a public GitHub Pages site.
+| Stage | Clip | Duration | Teaching prompt |
+| --- | --- | --- | --- |
+| Before Chapter 1 | Political system explainer | 1 min 20 sec | Why did leaders allocate political positions by religious community? |
+| After Chapter 2 | National Pact documentary extract | 1 min 40 sec | Which compromises were made to create a functioning state? |
+| After Chapter 4 | PLO documentary extract | 1 min 43 sec | What happens when armed organisations can act without government control? |
+| After Chapter 5 | Civil war documentary extract | 2 min 32 sec | What different factors contributed to the violence? |
 
-## Suggested follow on
+All clips start paused, can be skipped and are presented alongside short teaching prompts. If lesson time is limited, show the introductory clip and use the others only when pupils need extra context.
 
-Continue the Northern Arrows presentation with the 1982 Lebanon War, Amal, Hezbollah, the security zone, the 2006 war, and the events leading to Northern Arrows in 2024.
+**4. Midpoint discussion**
+
+After 1958, note Beirut's reputation as a regional tourist and financial centre. Ask how economic success might coexist with unresolved political tension.
+
+**5. Closing discussion**
+
+Suggested questions:
+
+* Could any one political compromise satisfy every community?
+* When might foreign intervention help, and when might it increase tensions?
+* What are the consequences when the state does not control all armed groups?
+* Why is it inaccurate to attribute the civil war to a single cause?
+* How did the developments after 1970 affect the security picture on Israel's northern border?
+
+## Historical accuracy and safeguards
+
+The player is an imaginary council, not an actual decision maker. The Stability and Authority values are simplified prompts for discussion, not numerical historical evidence. The historical reveal is separate from student choices. The game does not claim that any given classroom decision would have prevented the civil war.
+
+The 1958 chapter now uses a photograph from the original presentation's US intervention section. The previous image was of Egyptian President Gamal Abdel Nasser, and should not be labelled as Lebanese President Camille Chamoun.
+
+The videos were supplied by the educator. They may include narration and visual interpretations requiring additional historical context. For public use, confirm rights with the original owners.
