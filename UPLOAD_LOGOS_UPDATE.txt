@@ -1,0 +1,7 @@
+Lebanon: A Nation on the Brink • Version 5 logos update
+
+Upload the extracted contents of this ZIP to your existing GitHub repository, replacing index.html, styles.css and app.js and adding the two images in assets/.
+
+Do not delete the other assets or videos from your repository.
+
+Commit message: Add StandWithUs UK and Explore logos throughout Lebanon game
