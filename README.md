@@ -1,74 +1,83 @@
 # Lebanon: A Nation on the Brink
 
-An interactive StandWithUs UK Explore history activity for students aged 16 to 17.
+A StandWithUs UK Explore activity for pupils aged 16 to 17, covering Lebanon's creation and early political crises through the start of the 1975 civil war.
 
-## Version 2: Background and documentary edition
 
-This update expands the original five chapter simulation:
+## Lightweight GitHub browser upload edition
 
-* An introductory briefing on Lebanon's different religious communities and changing demographic estimates.
-* A clear explanation of the 1943 National Pact and the key political offices.
-* Four optional short video extracts from the two source videos supplied by the educator.
-* A corrected image for the 1958 crisis: the 1958 US intervention photograph from the original Northern Arrows presentation, rather than a photograph of Gamal Abdel Nasser.
-* Revised teacher guidance, source notes and classroom viewing instructions.
+This package has been compressed for GitHub's website uploader and contains the same eight video excerpts with reduced video resolution. **Extract this ZIP first; upload the contents, not the ZIP file itself.** For detailed instructions and a fallback procedure using smaller upload batches, read `UPLOAD_INSTRUCTIONS.txt`.
 
-The original five decision chapters, historical reveals, scoring logic, midpoint interlude, final council report and reset feature remain in place.
+## Version 3: The Council Chamber
 
-## Classroom journey
+This edition includes:
 
-1. Welcome screen. Optional council name.
-2. **Context briefing:** Compare religious communities and learn how leadership positions were shared. Watch the political system video or continue directly.
-3. **1920:** Creating Greater Lebanon.
-4. **1943:** Independence and the National Pact. Optional documentary clip.
-5. **1958:** Lebanese political crisis and US intervention.
-6. **1960s:** Beirut's golden years.
-7. **1970:** The growth of the PLO's presence. Optional documentary clip.
-8. **1975:** The outbreak of the civil war. Optional documentary clip.
-9. Final council report and discussion.
+* A more prominent political system video at the beginning, accurately cut from 0:00 to 1:36.
+* Large pie charts comparing the religious community estimates in the educator's presentation, with a prominent census limitation notice.
+* Larger, bolder text, animated icons, enhanced decision controls and mobile layout improvements.
+* Three fictional delegates in every chapter. They raise different political concerns and respond when pupils choose an option. Their statements are invented for education, not quotations or unified positions held by entire communities.
+* Full width **WHAT REALLY HAPPENED?** screens after all five choices. Historical excerpts attempt to autoplay with sound. A visible Play From Start button is provided if autoplay is blocked by the browser.
+* An archival clip for Beirut's golden years and a final video briefing before the council report.
+* The existing stability and state authority indicators, historic choices, recap and reset functionality.
 
-Running time: approximately 12 to 15 minutes without video, or around 20 to 25 minutes with every video and classroom discussion. Students may skip any clip.
+## Video excerpts
 
-## Contents
+| Activity screen | Original video interval | Duration | Filename |
+| --- | --- | --- | --- |
+| Introductory political system film | 0:00 to 1:36 | 1:36 | `videos/political_system_intro.mp4` |
+| 1920 reveal | 1:11 to 3:39 | 2:28 | `videos/history_1920.mp4` |
+| 1943 reveal | 3:39 to 4:10 | 0:31 | `videos/history_1943.mp4` |
+| 1958 reveal | 4:10 to 6:43 | 2:33 | `videos/history_1958.mp4` |
+| Beirut's golden years | 6:43 to 7:17 | 0:34 | `videos/history_golden.mp4` |
+| 1970 reveal | 7:13 to 8:07 | 0:54 | `videos/history_1970.mp4` |
+| 1975 reveal | 8:07 to 13:20 | 5:13 | `videos/history_1975.mp4` |
+| Final briefing | 13:20 to 13:52 | 0:32 | `videos/history_final.mp4` |
 
-* `index.html` starts the activity.
-* `styles.css` controls the layout and mobile experience.
-* `app.js` contains introduction content, chapter decisions, historical reveals, scores and video placements.
-* `assets/` includes the images and video posters.
-* `videos/` includes four shortened MP4 clips optimised for static GitHub hosting.
-* `EDUCATOR_GUIDE.md` offers lesson guidance.
-* `SOURCES.md` records citations, notes about estimates, clip timings and the rights reminder.
+The documentary excerpts are from *How Lebanon Descended Into Civil War*, credited in the game to **Hikma History**. The separate political system introduction is from *It's complicated: Lebanon's political system*, credited to **TRT World**, as indicated by the original file's branding. Video timings above are source timestamps. Each delivered file starts at time zero and ends at its specified duration.
 
-## GitHub Pages upload
+## Playing the activity
 
-1. Open your existing repository, such as `yehuda-swu/lebanonbrink`.
-2. Extract this ZIP on your computer.
-3. Upload the **contents** of the extracted folder into the **root** of the repository, including the `assets` and `videos` folders.
-4. Overwrite old versions of `index.html`, `styles.css`, `app.js`, `README.md`, `EDUCATOR_GUIDE.md` and `SOURCES.md`.
-5. Commit the changes.
-6. Make sure GitHub Pages deploys from the `main` branch and root folder in **Settings > Pages**.
+1. Open `index.html` on GitHub Pages and start the background briefing.
+2. Watch or skip the political system introduction, then compare the two pie charts.
+3. In each chapter, read the problem, consider advice from the fictional delegates, and choose one of three decisions.
+4. After confirming, read **WHAT REALLY HAPPENED?** and watch the matching excerpt.
+5. Continue through Beirut's golden years, the 1970 crisis and the beginning of the 1975 civil war.
+6. Watch the final briefing and review the council report.
+
+The complete video content totals 14 minutes 21 seconds including the introduction. Additional discussion increases the running time. Pupils can skip clips.
+
+## Deploying on GitHub Pages
+
+1. Extract the ZIP and open your existing repository.
+2. Upload the **contents** of the extracted folder to the repository root, preserving the `assets` and `videos` folders.
+3. Replace the previous `index.html`, `app.js`, `styles.css`, guide and source notes.
+4. Commit the changes and ensure **Settings > Pages** is publishing from `main` and the repository root.
+5. The largest MP4 file in this edition is less than GitHub's 25 MiB browser upload limit. If GitHub rejects large uploads, use Git from your computer instead.
 
 Suggested commit message:
 
-`Add Lebanon background briefing and documentary clips`
+`Improve Lebanon simulation with council voices and historical video reveals`
 
-For a locally cloned Git repository:
+If you maintain the repository locally:
 
 ```bash
-git add .
-git commit -m "Add Lebanon background briefing and documentary clips"
+git add -A
+git commit -m "Improve Lebanon simulation with council voices and historical video reveals"
 git push origin main
 ```
 
-If no repository exists, create a public repository, upload these files and enable GitHub Pages from `main` and `/ (root)`.
+Delete the old video filenames (`civil_war.mp4`, `national_pact.mp4` and `plo_in_lebanon.mp4`) from the repository when replacing version 2 so they do not remain as unused files.
 
-## Changing the activity
+## Editing the experience
 
-The `CHAPTERS` array in `app.js` contains the five chapters. To update the introduction, edit the `intro()` function. The rounded demographic illustrations are in that function. Video definitions are stored in `VIDEO_CLIPS`, and the player markup is handled by `clipCard()`.
+* `app.js`: `CHAPTERS` contains decisions; `DELEGATES` contains fictional council reactions; `VIDEO_CLIPS` sets video titles and timestamps; `intro()`, `revealPage()` and `finalVideo()` control the screens.
+* `styles.css`: fonts, colours, animation and responsive layout.
+* `assets`: archive imagery and posters from the educator's presentation.
+* `videos`: eight short MP4 files, encoded to play directly on GitHub Pages.
+* `EDUCATOR_GUIDE.md`: classroom notes and prompts.
+* `SOURCES.md`: historical and audiovisual credits.
 
-Score changes are simulated classroom interpretations and not historical statistics or predictions. Student decisions do not change the documented historical outcome.
+## Accuracy, rights and privacy
 
-## Rights and privacy
+Simulation scores are teaching devices. They are not historical evidence and student choices cannot rewrite documented events. The religious community percentages are from the supplied presentation and should not be presented as precise census data. Lebanon last held a national official census in 1932.
 
-The supplied presentation and both uploaded videos may include copyrighted material owned by others. The video extracts are included to support your local education workflow, but possession of downloaded media does not establish permission to redistribute them publicly through GitHub Pages. **Check licensing and obtain any necessary permissions before public deployment.** If you cannot republish the clips, remove the video files and ask to switch to linked, authorised original videos instead.
-
-The activity is static and does not transmit student names or decisions to a database. Optional Google Fonts may be requested by browsers when connected.
+**Copyright:** The photographs and films were supplied to adapt the activity, but the supply of a file does not itself grant permission to redistribute it publicly. Check publication and excerpting rights with the original video and photography owners before enabling a public GitHub Pages site. The game does not collect or send student names or their choices to a server.

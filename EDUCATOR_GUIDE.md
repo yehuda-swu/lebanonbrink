@@ -1,72 +1,51 @@
 # Educator Guide: Lebanon: A Nation on the Brink
 
-## Audience and purpose
+## Audience and objective
 
-StandWithUs UK Explore students aged 16 to 17. The goal is to give students a concise understanding of how Lebanon's political structure, communal divisions, external pressures and armed groups shaped the context for the conflict on Israel's northern border.
+StandWithUs UK Explore students aged 16 to 17. This classroom simulation introduces modern Lebanon through communal politics, constitutional compromise, armed organisations and the origins of the civil war. It provides historical context for later discussion of Israel's northern border.
 
-**Timing:** Approximately 12 to 15 minutes without video, or 20 to 25 minutes with all four clips and discussion. All video extracts are optional.
+The five decisions take approximately 10 to 15 minutes without video, or around 25 to 35 minutes with all film extracts and discussions. You may skip or replay any film.
 
-## Learning objectives
+## Running the simulation
 
-Students should be able to:
+1. **Opening briefing:** Show the political system video (0:00 to 1:36) near the top of the page. Explain that leadership posts are divided between communities. Refer to the large pie charts as estimates taken from the presentation, not exact official census results.
+2. **Council decisions:** Students act as a fictional advisory council. Three fictional delegates represent different concerns. Let students read their short opening positions before voting. When an option is selected, the delegates' responses change. Encourage students to explain disagreements between the fictional representatives.
+3. **Historical reveal:** After confirming a decision, the next screen is **WHAT REALLY HAPPENED?**. It contains an automatically starting documentary excerpt, subject to browser autoplay rules, and a short historical summary. Ask how the pupils' policy compares with actual events.
+4. **Golden years:** After the 1958 reveal, show Beirut's economic and cultural success in the 1960s. Ask why prosperity did not remove deeper tensions.
+5. **Final briefing and report:** After 1975, watch the final excerpt and discuss why no single policy could guarantee that civil war would be avoided.
 
-1. Identify Lebanon's principal religious communities and explain why demographic changes matter to political representation.
-2. Describe the original 1943 division of senior political offices and the 6:5 parliamentary arrangement.
-3. Explain the 1958 crisis and the importance of political compromise.
-4. Explain why the armed Palestinian presence in Lebanon increased pressure on the state and affected Israel's northern border.
-5. Recognise that the 1975 civil war had multiple contributing causes and involved several Lebanese and non Lebanese actors.
+## Discussion prompts
 
-## Suggested structure
+| Chapter | Guiding question |
+| --- | --- |
+| 1920 | How should a new state balance central government and the interests of different communities? |
+| 1943 | Could power sharing be both a useful compromise and a barrier to later reform? |
+| 1958 | Can foreign intervention end a crisis without resolving its causes? |
+| 1960s | How can a city prosper while its political system remains vulnerable? |
+| 1970 | What happens when a state no longer has full control over armed organisations? |
+| 1975 | How did different grievances, institutions and foreign pressures contribute to war? |
 
-**1. The context briefing, two to four minutes**
+## Documentary excerpts
 
-Show the two population diagrams. These values reflect the supplied presentation's *illustrative estimates*, not verified census results. Lebanon's last official national census occurred in **1932**. Percentage figures vary across references, and some definitions count different populations. Religious groups should not be described as ethnic groups.
+The historical documentary is **Hikma History**, supplied by the educator. The political system video is **TRT World**, also supplied by the educator.
 
-Ask students: *If the population of a country changes, should the political balance change as well?*
+* Intro, TRT World: 0:00 to 1:36
+* Chapter 1920, Hikma History: 1:11 to 3:39
+* Chapter 1943, Hikma History: 3:39 to 4:10
+* Chapter 1958, Hikma History: 4:10 to 6:43
+* Golden years, Hikma History: 6:43 to 7:17
+* Chapter 1970, Hikma History: 7:13 to 8:07
+* Chapter 1975, Hikma History: 8:07 to 13:20
+* Final briefing, Hikma History: 13:20 to 13:52
 
-Explain the roles linked to the 1943 National Pact:
+Note the four second intentional overlap between the golden years and the 1970 segments, reflecting the intervals specified for the activity.
 
-* President: Maronite Christian.
-* Prime Minister: Sunni Muslim.
-* Speaker of Parliament: Shia Muslim.
+## Safeguards for historical accuracy
 
-In 1943 the parliamentary ratio favoured Christians 6:5. A later settlement changed seats to equal representation between Christians and Muslims.
+The fictional Christian, Sunni, Shia, Druze, Palestinian and institutional delegates are **teaching characters**. They cannot speak for whole religious communities. The quotes are newly written simulations, not documented statements by historical politicians. The two indicators, National Stability and State Authority, are imaginary teaching tools and do not imply that the game can predict history.
 
-The intro offers the political system video extract as a quick refresher.
+The two demographic charts reproduce rounded estimates from the user's Northern Arrows presentation. Religious categories are not ethnic categories. Lebanon's most recent official national census was in 1932, and modern estimates vary in methodology and population covered.
 
-**2. The council decisions, ten to twelve minutes**
+The photograph used for the 1958 chapter shows the US intervention from the supplied presentation, not Egyptian President Nasser or Lebanese President Chamoun.
 
-For each of the five chapters, ask students to read the problem, speak in pairs for roughly 45 seconds, select a recommendation and open the historical reveal. Encourage groups to explain why they made each choice.
-
-**3. Video opportunities**
-
-| Stage | Clip | Duration | Teaching prompt |
-| --- | --- | --- | --- |
-| Before Chapter 1 | Political system explainer | 1 min 20 sec | Why did leaders allocate political positions by religious community? |
-| After Chapter 2 | National Pact documentary extract | 1 min 40 sec | Which compromises were made to create a functioning state? |
-| After Chapter 4 | PLO documentary extract | 1 min 43 sec | What happens when armed organisations can act without government control? |
-| After Chapter 5 | Civil war documentary extract | 2 min 32 sec | What different factors contributed to the violence? |
-
-All clips start paused, can be skipped and are presented alongside short teaching prompts. If lesson time is limited, show the introductory clip and use the others only when pupils need extra context.
-
-**4. Midpoint discussion**
-
-After 1958, note Beirut's reputation as a regional tourist and financial centre. Ask how economic success might coexist with unresolved political tension.
-
-**5. Closing discussion**
-
-Suggested questions:
-
-* Could any one political compromise satisfy every community?
-* When might foreign intervention help, and when might it increase tensions?
-* What are the consequences when the state does not control all armed groups?
-* Why is it inaccurate to attribute the civil war to a single cause?
-* How did the developments after 1970 affect the security picture on Israel's northern border?
-
-## Historical accuracy and safeguards
-
-The player is an imaginary council, not an actual decision maker. The Stability and Authority values are simplified prompts for discussion, not numerical historical evidence. The historical reveal is separate from student choices. The game does not claim that any given classroom decision would have prevented the civil war.
-
-The 1958 chapter now uses a photograph from the original presentation's US intervention section. The previous image was of Egyptian President Gamal Abdel Nasser, and should not be labelled as Lebanese President Camille Chamoun.
-
-The videos were supplied by the educator. They may include narration and visual interpretations requiring additional historical context. For public use, confirm rights with the original owners.
+The user supplied original audiovisual materials; please obtain the necessary rights to show or redistribute video excerpts and photographs on a public site before deployment.

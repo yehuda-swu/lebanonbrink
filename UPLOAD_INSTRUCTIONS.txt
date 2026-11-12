@@ -1,0 +1,27 @@
+LEBANON: A NATION ON THE BRINK
+Version 3, lightweight GitHub browser upload edition
+
+IMPORTANT: First extract the ZIP. Do not upload this ZIP to GitHub as a single file.
+
+UPLOAD STEPS
+1. On your computer, right click the downloaded ZIP and select Extract All.
+2. Open your existing game's GitHub repository and go to the Code tab.
+3. Select Add file, then Upload files.
+4. Open the extracted folder and drag its CONTENTS onto the GitHub upload page.
+   Keep index.html, app.js and styles.css at the root of the repository.
+   Keep all media in the assets and videos subfolders.
+5. Scroll down and commit with message:
+   Fix GitHub upload and optimise Northern Arrows simulation videos
+6. Refresh GitHub Pages after the published site updates.
+
+IF GITHUB STILL REFUSES A LARGE BATCH
+Upload in three separate commits:
+A. index.html, app.js, styles.css, README.md, EDUCATOR_GUIDE.md, SOURCES.md, and the assets folder
+B. videos/political_system_intro.mp4, history_1920.mp4, history_1943.mp4, history_1958.mp4
+C. videos/history_golden.mp4, history_1970.mp4, history_1975.mp4, history_final.mp4
+
+The eight clips have been resized and compressed for faster browser uploads.
+This reduces video picture quality but retains the same chosen scenes and audio.
+The game, chapters, timings and credits are unchanged.
+
+To upload high quality videos later, use GitHub Desktop or Git on your computer with the original Version 3 package. The original ZIP should never be placed in the GitHub repository as a single file because GitHub Pages needs individual website files.
