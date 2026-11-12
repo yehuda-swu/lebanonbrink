@@ -7,6 +7,10 @@ A StandWithUs UK Explore activity for pupils aged 16 to 17, covering Lebanon's c
 
 This package has been compressed for GitHub's website uploader and contains the same eight video excerpts with reduced video resolution. **Extract this ZIP first; upload the contents, not the ZIP file itself.** For detailed instructions and a fallback procedure using smaller upload batches, read `UPLOAD_INSTRUCTIONS.txt`.
 
+## Version 4: The Cracked Lebanon Home Screen
+
+This version refreshes the welcome screen with a dramatic fractured map of Lebanon, sharper historical imagery and a clearer visual focus. The previous tagline “History is not simple” has been removed. All chapter decisions, council reactions, videos, scoring and briefing pages from Version 3 are retained.
+
 ## Version 3: The Council Chamber
 
 This edition includes:
@@ -55,13 +59,13 @@ The complete video content totals 14 minutes 21 seconds including the introducti
 
 Suggested commit message:
 
-`Improve Lebanon simulation with council voices and historical video reveals`
+`Refresh Lebanon home screen with cracked map artwork`
 
 If you maintain the repository locally:
 
 ```bash
 git add -A
-git commit -m "Improve Lebanon simulation with council voices and historical video reveals"
+git commit -m "Refresh Lebanon home screen with cracked map artwork"
 git push origin main
 ```
 

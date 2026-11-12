@@ -1,5 +1,5 @@
 LEBANON: A NATION ON THE BRINK
-Version 3, lightweight GitHub browser upload edition
+Version 4, lightweight GitHub browser upload edition
 
 IMPORTANT: First extract the ZIP. Do not upload this ZIP to GitHub as a single file.
 
@@ -11,7 +11,7 @@ UPLOAD STEPS
    Keep index.html, app.js and styles.css at the root of the repository.
    Keep all media in the assets and videos subfolders.
 5. Scroll down and commit with message:
-   Fix GitHub upload and optimise Northern Arrows simulation videos
+   Refresh Lebanon home screen with cracked map artwork
 6. Refresh GitHub Pages after the published site updates.
 
 IF GITHUB STILL REFUSES A LARGE BATCH
